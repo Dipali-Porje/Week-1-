@@ -1,2 +1,2 @@
 # Week-1-
-Wind power generation is one of the most sustainable and rapidly growing renewable energy sources. The efficiency of wind turbines depends on various environmental and operational factors, including wind speed, temperature, humidity, air pressure, and turbine conditions.
+Wind power generation is one of the most sustainable and rapidly growing renewable energy sources. The efficiency of wind turbines depends on various environmental and operational factors, including wind speed, temperature, humidity, air pressure, and turbine conditions. This project aims to analyze and predict wind power generation using machine learning techniques, ensuring better energy forecasting and grid management.
